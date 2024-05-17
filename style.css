@@ -1,0 +1,11 @@
+.box{
+    width: fit-content;
+    padding: 2%;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+.box li{
+    list-style: none;
+    display: flex;
+}
